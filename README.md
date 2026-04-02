@@ -3,5 +3,6 @@ Constantly learning and growing in the world of full-stack development.
 Let's collaborate and make some magic happen 💻✨ 
 Let's collaborate and make some magic happen 💻✨ 
 Let's collaborate and make some magic happen 💻✨ 
+Let's collaborate and make some magic happen 💻✨ 
 
 #JavaScriptQueen
